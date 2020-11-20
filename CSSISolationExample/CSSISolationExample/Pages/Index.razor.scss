@@ -1,0 +1,9 @@
+﻿$color: blue;
+$fontStyle: italic;
+$textShadow: 2px 2px 2px gray;
+
+::deep h1 {
+	color: $color;
+	font-style: $fontStyle;
+	text-shadow: $textShadow;
+}

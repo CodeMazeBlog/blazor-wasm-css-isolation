@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSISolationExample", "CSSISolationExample\CSSISolationExample.csproj", "{8BD67116-3C89-4B4D-8CDD-3407882809CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD67116-3C89-4B4D-8CDD-3407882809CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD67116-3C89-4B4D-8CDD-3407882809CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD67116-3C89-4B4D-8CDD-3407882809CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD67116-3C89-4B4D-8CDD-3407882809CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9889DAB-CD4A-43AD-A9B8-AA0546DA9201}
+	EndGlobalSection
+EndGlobal
